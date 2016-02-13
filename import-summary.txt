@@ -1,0 +1,187 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* firmware/
+* firmware/.DS_Store
+* firmware/adkArduino/
+* firmware/adkArduino/adkArduino.ino
+* firmware/arduino_libs/
+* firmware/arduino_libs/.DS_Store
+* firmware/arduino_libs/Adafruit_GFX_Library/
+* firmware/arduino_libs/Adafruit_GFX_Library/Adafruit_GFX.cpp
+* firmware/arduino_libs/Adafruit_GFX_Library/Adafruit_GFX.h
+* firmware/arduino_libs/Adafruit_GFX_Library/README.txt
+* firmware/arduino_libs/Adafruit_GFX_Library/glcdfont.c
+* firmware/arduino_libs/Adafruit_GFX_Library/license.txt
+* firmware/arduino_libs/Adafruit_NeoMatrix/
+* firmware/arduino_libs/Adafruit_NeoMatrix/Adafruit_NeoMatrix.cpp
+* firmware/arduino_libs/Adafruit_NeoMatrix/Adafruit_NeoMatrix.h
+* firmware/arduino_libs/Adafruit_NeoMatrix/COPYING
+* firmware/arduino_libs/Adafruit_NeoMatrix/README.md
+* firmware/arduino_libs/Adafruit_NeoMatrix/examples/
+* firmware/arduino_libs/Adafruit_NeoMatrix/examples/matrixtest/
+* firmware/arduino_libs/Adafruit_NeoMatrix/examples/matrixtest/matrixtest.pde
+* firmware/arduino_libs/Adafruit_NeoMatrix/examples/tiletest/
+* firmware/arduino_libs/Adafruit_NeoMatrix/examples/tiletest/tiletest.pde
+* firmware/arduino_libs/Adafruit_NeoMatrix/extras/
+* firmware/arduino_libs/Adafruit_NeoMatrix/extras/gamma.c
+* firmware/arduino_libs/Adafruit_NeoMatrix/gamma.h
+* firmware/arduino_libs/Adafruit_NeoPixel/
+* firmware/arduino_libs/Adafruit_NeoPixel/Adafruit_NeoPixel.cpp
+* firmware/arduino_libs/Adafruit_NeoPixel/Adafruit_NeoPixel.h
+* firmware/arduino_libs/Adafruit_NeoPixel/COPYING
+* firmware/arduino_libs/Adafruit_NeoPixel/README.md
+* firmware/arduino_libs/Adafruit_NeoPixel/examples/
+* firmware/arduino_libs/Adafruit_NeoPixel/examples/goggles/
+* firmware/arduino_libs/Adafruit_NeoPixel/examples/goggles/goggles.ino
+* firmware/arduino_libs/Adafruit_NeoPixel/examples/strandtest/
+* firmware/arduino_libs/Adafruit_NeoPixel/examples/strandtest/strandtest.ino
+* firmware/arduino_libs/AndroidAccessory/
+* firmware/arduino_libs/AndroidAccessory/AndroidAccessory.cpp
+* firmware/arduino_libs/AndroidAccessory/AndroidAccessory.h
+* firmware/arduino_libs/AndroidAccessory/examples/
+* firmware/arduino_libs/AndroidAccessory/examples/demokit/
+* firmware/arduino_libs/AndroidAccessory/examples/demokit/demokit.pde
+* firmware/arduino_libs/AndroidAccessory/examples/demokit0100/
+* firmware/arduino_libs/AndroidAccessory/examples/demokit0100/demokit0100.ino
+* firmware/arduino_libs/ArduinoAdkUsb/
+* firmware/arduino_libs/ArduinoAdkUsb/.DS_Store
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/AndroidAccessory.cpp
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/AndroidAccessory.h
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/COPYING
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/README
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_01_digitalRead_adk/
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_01_digitalRead_adk/_01_digitalRead_adk.ino
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_01_digitalRead_adk/_01_digitalRead_adk.ino~
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_02_digitalWrite_adk/
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_02_digitalWrite_adk/_02_digitalWrite_adk.ino
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_02_digitalWrite_adk/_02_digitalWrite_adk.ino~
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_03_analogRead_adk/
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_03_analogRead_adk/_03_analogRead_adk.ino
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_03_analogRead_adk/_03_analogRead_adk.ino~
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_04_analogWrite_adk/
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_04_analogWrite_adk/_04_analogWrite_adk.ino
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory.x/examples/_04_analogWrite_adk/_04_analogWrite_adk.ino~
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory/
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory/.DS_Store
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory/AndroidAccessory.cpp
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory/AndroidAccessory.h
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory/examples/
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory/examples/.DS_Store
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory/examples/demokit/
+* firmware/arduino_libs/ArduinoAdkUsb/AndroidAccessory/examples/demokit/demokit.pde
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/.gitignore
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/Max3421e.cpp
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/Max3421e.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/Max3421e_constants.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/Max_LCD.cpp
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/Max_LCD.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/README
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/Usb.cpp
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/Usb.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/ch9.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/LCDkbd.pde
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/PS3LCD.pde
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/adktest/
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/adktest/.classpath
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/adktest/.project
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/adktest/AndroidManifest.xml
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/adktest/adktest.pde
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/adktest/bin/
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/adktest/bin/jarlist.cache
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/adktest/project.properties
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/arm_mouse.pde
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/board_test/
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/board_test/board_test.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/board_test/board_test.pde
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/conf_descr_dump.pde
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/descriptor_parser/
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/descriptor_parser/descriptor_parser.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield.x/examples/descriptor_parser/descriptor_parser.pde
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/Max3421e.cpp
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/Max3421e.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/Max3421e_constants.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/Max_LCD.cpp
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/Max_LCD.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/README
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/Usb.cpp
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/Usb.h
+* firmware/arduino_libs/ArduinoAdkUsb/USB_Host_Shield/ch9.h
+* firmware/arduino_libs/USB_Host_Shield/
+* firmware/arduino_libs/USB_Host_Shield/.gitignore
+* firmware/arduino_libs/USB_Host_Shield/Max3421e.cpp
+* firmware/arduino_libs/USB_Host_Shield/Max3421e.h
+* firmware/arduino_libs/USB_Host_Shield/Max3421e_constants.h
+* firmware/arduino_libs/USB_Host_Shield/Max_LCD.cpp
+* firmware/arduino_libs/USB_Host_Shield/Max_LCD.h
+* firmware/arduino_libs/USB_Host_Shield/README
+* firmware/arduino_libs/USB_Host_Shield/Usb.cpp
+* firmware/arduino_libs/USB_Host_Shield/Usb.h
+* firmware/arduino_libs/USB_Host_Shield/ch9.h
+* firmware/robot_control_ex1/
+* firmware/robot_control_ex1/.DS_Store
+* firmware/robot_control_ex1/arduino_da_function_generator_4/
+* firmware/robot_control_ex1/arduino_da_function_generator_4/arduino_da_function_generator_4.pde
+* firmware/robot_control_ex1/robot_control_ex1/
+* firmware/robot_control_ex1/robot_control_ex1/robot_control_ex1.pde
+* ic_launcher-web.png
+* key/
+* key/Twitter2NeoMatrixEx3.apk
+* key/key
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* libs/twitter4j-async-android-3.0.1.jar => app/libs/twitter4j-async-android-3.0.1.jar
+* libs/twitter4j-core-4.0.2.jar => app/libs/twitter4j-core-4.0.2.jar
+* libs/twitter4j-examples-3.0.1.jar => app/libs/twitter4j-examples-3.0.1.jar
+* libs/twitter4j-media-support-android-3.0.1.jar => app/libs/twitter4j-media-support-android-3.0.1.jar
+* libs/twitter4j-stream-android-3.0.1.jar => app/libs/twitter4j-stream-android-3.0.1.jar
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/.DS_Store => app/src/main/resources/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

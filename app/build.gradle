@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion "22.0.1"
+    compileSdkVersion "Google Inc.:Google APIs:21"
+
+    defaultConfig {
+        applicationId "org.yamalab.android.twitter2neomatrix"
+        minSdkVersion 10
+        targetSdkVersion 11
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/twitter4j-async-android-3.0.1.jar')
+    compile files('libs/twitter4j-core-4.0.2.jar')
+    compile files('libs/twitter4j-examples-3.0.1.jar')
+    compile files('libs/twitter4j-media-support-android-3.0.1.jar')
+    compile files('libs/twitter4j-stream-android-3.0.1.jar')
+}
